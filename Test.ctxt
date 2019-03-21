@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Test\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment2.params=tf\ idf
+comment2.target=double\ calWeight(int,\ double)
+comment3.params=line\ docNum
+comment3.target=java.lang.String\ getIdf(java.lang.String,\ int)
+comment4.params=docs
+comment4.target=java.lang.String\ DuplicateRm(java.lang.String)
+comment5.params=result
+comment5.target=void\ writeLinesToFile(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
